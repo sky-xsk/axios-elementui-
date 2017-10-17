@@ -1,0 +1,2 @@
+export const RECEIVE_PRODUCTS ='RECEIVE_PRODUCTS'
+export const GET_QUANZI ='GET_QUANZI'
